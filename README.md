@@ -1,6 +1,8 @@
 # BME-ECE-4783-Medical-Image-Processing
 This is a three-phase medical image processing project, aiming to correctly classify tiles of breast cancer pathological whole-slide images
 
+Finished in spring 2016
+
 Instructions to Run the GUI
 
 Please always open “Module3_GUI.m” in Matlab and click the green button “RUN” or press keyboard button “F5” to run the GUI. Do NOT try to run “Module3_GUI.fig”. It simply doesn’t work. 
